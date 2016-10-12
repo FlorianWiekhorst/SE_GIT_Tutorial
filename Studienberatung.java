@@ -11,7 +11,9 @@ public class Studienberatung{
 			String antwort = scanner.next();
 		}
 		else{
-			
+			System.out.println("Bist du wissbegierig?");
+			String antwort = scanner.next();
+
 		}
 	}
 }
